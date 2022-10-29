@@ -1,0 +1,42 @@
+body{
+    margin-top:none;
+    margin-bottom: none;
+}
+.navbar {
+    background-color:#F1FFF0;
+}
+
+#showcase {
+    background-color: #F1FFF0;
+}
+
+#showcase h1 {
+    font-weight: bold;
+}
+
+.cimg {
+    width: 50%;
+    height: 50%;
+}
+
+.card {
+    margin: 1.5rem;
+    padding: 1.5rem;
+    border: 1px solid white;
+    border-radius: 3%;
+}
+
+.card:hover {
+    background-color: white;
+    border: 0;
+    border-radius: 3%;
+    box-shadow: 0 0 15px darkgray
+}
+
+.c1 {
+    background-color: #f7fdf5c1;
+}
+
+.icon-sizing{
+    width: 25px;
+}
